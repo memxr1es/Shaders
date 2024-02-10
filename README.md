@@ -1,6 +1,6 @@
 # Shaders
 
-The purpose of the project: to study the work of keyframeAnimation, shaders and
+The purpose of the project: to study the work of keyframeAnimation, shaders and phaseAnimator
 
 ### Review:
 
